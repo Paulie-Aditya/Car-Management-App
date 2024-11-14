@@ -15,13 +15,16 @@
     "next": "15.0.3",
     "next-auth": "^4.24.10",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "swagger-ui-dist": "^5.18.2",
+    "swagger-ui-react": "^5.18.2"
   },
   "devDependencies": {
     "@types/mongodb": "^4.0.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/swagger-ui-react": "^4.18.3",
     "eslint": "^8",
     "eslint-config-next": "15.0.3",
     "typescript": "^5"
